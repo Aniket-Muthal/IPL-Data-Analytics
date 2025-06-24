@@ -2,8 +2,6 @@ streamlit
 pandas
 numpy
 plotly
-plotly.express
-plotly.graph_objects
 matplotlib.pyplot
 seaborn
 scikit-learn==1.4.2
